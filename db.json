@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "title": "Learn Next.js",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "title": "Demo CRUD operations",
+      "completed": false
+    },
+    {
+      "id": "3",
+      "title": "Nova Designs New Video",
+      "completed": false
+    },
+    {
+      "id": "3",
+      "title": "Nova Designs New Video",
+      "completed": false
+    }
+  ]
+}
