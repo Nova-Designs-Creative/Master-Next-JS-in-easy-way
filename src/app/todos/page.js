@@ -62,9 +62,8 @@ const Page = async () => {
   //   completed: false,
   // };
 
-  // Make the POST request to create the new todo item
-  // const createdTodo = await postData(newTodo);
-  // console.log("Created Todo:", createdTodo);
+  const createdTodo = await postData(newTodo);
+  console.log("Created Todo:", createdTodo);
 
   // Define an updated todo item
   // const updatedTodo = {

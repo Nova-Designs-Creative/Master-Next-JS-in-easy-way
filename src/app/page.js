@@ -1,13 +1,11 @@
+// Declaring that this file is using client-side rendering
 "use client";
-import Image from "next/image";
-import { useState } from "react";
 
+// This is the Home component, which serves as the home directory
 export default function Home() {
-  const [testing, setTesting] = useState("");
-
   return (
     <div>
-      <h1>Home</h1>
+      <h1>Home</h1> {/* Displaying the "Home" heading on the page (localhost:3000) */}
     </div>
   );
 }
